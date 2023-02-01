@@ -71,7 +71,7 @@ var files = (function () {
         "about.txt": "I am a cybersecurity enthusiast seeking a progressive work environment where I can utilize my technical, and interpersonal skills to add value to the organization, while expanding my horizons in the revolutionary era of Information Security.",
        // "getting_started.txt": "First, go to js/main.js and replace all the text on both singleton vars.\n- configs: All the text used on the website.\n- files: All the fake files used on the website. These files are also used to be listed on the sidenav.\nAlso please notice if a file content is a raw URL, when clicked/concatenated it will be opened on a new tab.\nDon't forget also to:\n- Change the page title on the index.html file\n- Change the website color on the css/main.css\n- Change the images located at the img folder. The suggested sizes are 150x150 for the avatar and 32x32/16x16 for the favicon.",
         "education.txt":"I completed my Bsc(I.T.) from Charusat University with 8.5 CGPA and I am currently enrolled at Amity University to earn my Msc in cybersecurity.",
-        "certs.txt":"I hold two certification in the domain of pentesting eJPT(elearnsecurity junion penetration tester) and eCPPT (elearnsecurity certified Professional Pentration Tester)",
+        "certs.txt":"I hold two certifications in pentesting domain named, eJPT(elearnsecurity junion penetration tester) and eCPPT (elearnsecurity certified Professional Pentration Tester).",
         "contact.txt": "motaniaalekh34@gmail.com",
         "linkedin.txt": "https://www.linkedin.com/in/aalekh-motani/",
         "blog.txt": "https://medium.com/@motaniaalekh34",
